@@ -7,12 +7,17 @@ I'm a **Computer Science student** with expertise in **Web Development**, **Mobi
 ## 🛠 Skills & Technologies
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div>
 
 - **Languages**: Python, JavaScript, PHP, Java, SQL, C, HTML5, CSS, Kotlin, Dart
@@ -64,6 +69,14 @@ An all-in-one QR code application featuring advanced scanning capabilities, mach
 
 ---
 
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JIKS31&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -75,6 +88,9 @@ An all-in-one QR code application featuring advanced scanning capabilities, mach
   </a>
   <a href="mailto:jiksonjimmy@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/Jiksonjimmy31">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 
@@ -88,5 +104,3 @@ An all-in-one QR code application featuring advanced scanning capabilities, mach
 </div>
 
 ---
-
-<!-- You can add other widgets or badges here if you'd like -->
