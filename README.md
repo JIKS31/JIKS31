@@ -52,7 +52,7 @@ An all-in-one QR code application featuring advanced scanning capabilities, mach
 ## 🎓 Education
 
 - **B.Tech in Computer Science**  
-  Vimal Jyothi Engineering College | Current CGPA: 6.99 | 2021 - 2025  
+  Vimal Jyothi Engineering College || 2021 - 2025  
 
 ---
 
