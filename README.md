@@ -18,12 +18,13 @@ I'm a **Computer Science student** with expertise in **Web Development**, **Mobi
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </div>
 
-- **Languages**: Python, JavaScript, PHP, Java, SQL, C, HTML5, CSS, Kotlin, Dart
-- **Frameworks & Libraries**: Flutter, Machine Learning (ML)
+- **Languages**: Python, JavaScript, PHP, Java, SQL, C, HTML5, CSS, Kotlin, Dart, R
+- **Frameworks & Libraries**: Flutter, NumPy, Pandas, DSA, Machine Learning (ML), LangChain, Streamlit
 - **Web Technologies**: HTML, CSS, JavaScript, PHP
-- **Tools**: Git, Android Studio, Jupyter Notebooks
+- **Tools**: Git, Android Studio, Jupyter Notebooks, PyCharm, Power BI
 - **Soft Skills**: Public Speaking, Problem Solving, Creative Thinking, Team Leadership
 
 ---
@@ -37,9 +38,9 @@ An all-in-one QR code application featuring advanced scanning capabilities, mach
 
 ---
 
-## 💼 Experience
+## 🎼 Experience
 
-- **Flutter-based Android HMI Development & Automation Intern**  
+- **Flutter-based Android HMI Development & Python based Automation Project Intern**  
   *JohnSoft Technologies LLP* | June 2024 – July 2024  
   - Developed Android application interfaces using Flutter and automated HMI systems.
   - Collaborated with a team to deliver efficient, high-quality solutions.
@@ -56,7 +57,7 @@ An all-in-one QR code application featuring advanced scanning capabilities, mach
 
 ---
 
-## 📜 Certifications
+## 📝 Certifications
 
 <div>
   <ul>
@@ -77,7 +78,7 @@ An all-in-one QR code application featuring advanced scanning capabilities, mach
 
 ---
 
-## 📫 Let's Connect!
+## 💋 Let's Connect!
 
 <div align="center">
   <a href="http://www.linkedin.com/in/jikson-jimmy-24a0842b6">
@@ -102,5 +103,3 @@ An all-in-one QR code application featuring advanced scanning capabilities, mach
   <img src="https://github-readme-stats.vercel.app/api?username=JIKS31&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIKS31&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
----
