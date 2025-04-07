@@ -36,6 +36,16 @@ An all-in-one QR code application featuring advanced scanning capabilities, mach
 
 ![QR Code Scanner Screenshot](images/qr_code_scanner.png) <!-- Replace with the actual path to your image -->
 
+### [Chat with LLM Models - Streamlit App](https://github.com/JIKS31/LLM.git)
+This interactive Streamlit application allows you to chat with powerful Large Language Models (LLMs) such as llama2 and deepseek-r1 in real-time. It’s designed to offer seamless conversations with AI, complete with model response streaming and performance tracking.
+
+![LLM](LLM.png)
+
+### [Sentinel-Eye(Drone Surveillance System)](https://github.com/JIKS31/Sentinel-Eye.git)
+A real-time drone-based surveillance system powered by computer vision, designed to detect criminals ,weapons and accident activities, track individuals using SORT, and identify known criminals using face recognition models.
+
+![Sentinel_Eye](Frontend.png)
+
 ---
 
 ## 🎼 Experience
