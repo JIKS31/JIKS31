@@ -37,7 +37,7 @@ An all-in-one QR code application featuring advanced scanning capabilities, mach
 ![QR Code Scanner Screenshot](images/qr_code_scanner.png) <!-- Replace with the actual path to your image -->
 
 ### [Chat with LLM Models - Streamlit App](https://github.com/JIKS31/LLM.git)
-This interactive Streamlit application allows you to chat with powerful Large Language Models (LLMs) such as llama2 and deepseek-r1 in real-time. It’s designed to offer seamless conversations with AI, complete with model response streaming and performance tracking.
+This interactive Streamlit application allows you to chat with powerful Large Language Models (LLMs) such as llama2 ,gemma2 and deepseek-r1 in real-time. It’s designed to offer seamless conversations with AI, complete with model response streaming and performance tracking.
 
 ![LLM](LLM/LLM.png)
 
