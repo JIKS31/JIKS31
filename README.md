@@ -1,18 +1,25 @@
-<h1>
+<h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
-  Jikson Jimmy
+  Jikson Jimmy<br>
 </h1>
-
-<a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat+Bold&weight=600&duration=3500&pause=1000&random=true&width=435&lines=Innovative.;Creative.;Visionary.;Tech-savvy.;Self-motivated." alt="Typing SVG" /></a>
-
-<div align =center>
-
-  I'm a **Computer Science student** with expertise in **Web Development**, **Mobile Application Development**, **Machine Learning**, and **Automation**. With a strong foundation in **front-end and back-end technologies**, I enjoy creating efficient, well-designed user interfaces and exploring innovative tech solutions. 
-</div>
-
-<p>
-  <img align = left; src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="40"/><h3>Skills & Technologies</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JIKS31" alt="JIKS31" /></p>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat+Bold&weight=600&duration=3500random=true&size=25&lines=Detail+Driven.;Design+Minded.;Analytical+Strategist.;Fast+Learner.;Adaptive+Leader.;Problem+Solver.;Bold+Innovator.;Curious+Explorer.;Growth+Hacker.;Efficient+Executor." alt="Typing SVG"/>
 </p>
+
+## 💫 About Me:
+<img align="right" width=200px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+- 🎮 Gamer by heart – I treat coding like a game and debugging like a boss level.
+- 🍕 Pizza lover – because who doesn't need some fuel while coding?
+- 🌌 Dreaming of one day integrating AI into space tech (maybe one day, Sentinel Eye will go intergalactic!).
+- 🎧 Music is my second language – when I’m not coding, you’ll find me lost in tunes.
+- 🔥 Always ready to take on the next challenge – tech or otherwise!
+
+📩 Reach me at [jiksonjimmy@gmail.com] 😊
+<br>
+
+<img align = left; width=50px; height=30px alt=side_sticker_skills src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/> **Skills & Technologies**<br>
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="985" height="10">
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -70,43 +77,31 @@
 - **Soft Skills**: Public Speaking, Problem Solving, Creative Thinking, Team Leadership
 
 
-**🚀 My Projects**
+**🚀 My Projects** <br>
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="715" height="5">
 
 [![Sentinel-Eye](https://svg.bookmark.style/api?url=https://github.com/JIKS31/Sentinel-Eye&style=horizontal&mode=dark)](https://github.com/JIKS31/Sentinel-Eye)
 [![SECURE-QRCODE](https://svg.bookmark.style/api?url=https://github.com/JIKS31/Malicious_qrcode_Scanner-and-Generator-With-ML&style=horizontal&mode=dark)]([https://github.com/JIKS31/Sentinel-Eye](https://github.com/JIKS31/Malicious_qrcode_Scanner-and-Generator-With-ML))
 [![LLM](https://svg.bookmark.style/api?url=https://github.com/JIKS31/LLM.git&style=horizontal&mode=dark)]([https://github.com/JIKS31/LLM.git)
 
-## 🎼 Experience
-
-- **Flutter-based Android HMI Development & Python based Automation Project Intern**  
-  *JohnSoft Technologies LLP* | June 2024 – July 2024  
-  - Developed Android application interfaces using Flutter and automated HMI systems.
-  - Collaborated with a team to deliver efficient, high-quality solutions.
-
-- **Flutter Internship**  
-  *Alisons Infomatics Pvt. Ltd.* | August 2023  
-
----
-
-## 🎓 Education
-
-- **B.Tech in Computer Science**  
-  Vimal Jyothi Engineering College || 2021 - 2025  
-
-##  Let's Connect!
-
+<br> 
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="Let's Connect!" />
+  <br>
+  Let's Connect!
+</h2>
 <div align="center">
   <a href="http://www.linkedin.com/in/jikson-jimmy-24a0842b6">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" />
   </a>
   <a href="https://github.com/JIKS31">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/github.svg" />
   </a>
   <a href="mailto:jiksonjimmy@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Emblem.png" alt="logo"height="50" />
   </a>
   <a href="https://x.com/Jiksonjimmy31">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" />
   </a>
 </div>
 
