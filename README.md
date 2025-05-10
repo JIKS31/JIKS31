@@ -10,7 +10,6 @@
 
 ##  About Me:
 
-<img align="right" width=200px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🎮 Gamer by heart – I treat coding like a game and debugging like a boss level.
 - 🍕 Pizza lover – because who doesn't need some fuel while coding?
